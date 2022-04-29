@@ -3,6 +3,7 @@ To do app in which you can add notes, delete them and search for a specific note
 
 # Technologies 🔧
 * REACT (styled components)
+* redux toolkit
 
 # Screenshots 📺
 ![image](https://user-images.githubusercontent.com/61913031/165926329-6cfa94ba-92df-4ed6-9c6c-062a1b44867c.png)
