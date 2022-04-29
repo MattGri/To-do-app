@@ -88,7 +88,7 @@ const CreateTodo = () => {
     e.preventDefault();
 
     if (description === '') {
-      alert('You need to write something :)');
+      return alert('You need to write something :)');
     }
 
     const create = {
