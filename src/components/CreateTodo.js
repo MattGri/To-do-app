@@ -87,6 +87,10 @@ const CreateTodo = () => {
   const show = (e) => {
     e.preventDefault();
 
+    if (description === '') {
+      alert('You need to write something :)');
+    }
+
     const create = {
       ...description,
       id: Math.floor(Math.random() * 999),
