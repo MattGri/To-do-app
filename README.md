@@ -2,6 +2,9 @@
 To do app in which you can add notes, delete them and search for a specific note. When you add a note it will be added in the local storage and if you delete this note it will be deleted from the local storage.
 
 # Technologies 🔧
+* html
+* css
+* javascript
 * REACT (styled components)
 * redux toolkit
 
