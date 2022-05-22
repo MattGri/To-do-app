@@ -14,6 +14,22 @@ To do app in which you can add notes, delete them and search for a specific note
 ![image](https://user-images.githubusercontent.com/61913031/165926550-148871e9-add4-4358-a01b-ee95b25e9e08.png)
 
 
+# Installation 💾
+
+1. Open your terminal and then type 
+
+     **$ git clone https://github.com/MattGri/Pizza-Website.git**
+
+2. **cd** into the new folder and type
+
+     **$ npm install**
+
+3. To run the React project.
+
+     **$ npm start**
+
+
+
 # Issues 🔍
  
  If you have any issues, please let me know on mateusz.grzybowski98@gmail.com
